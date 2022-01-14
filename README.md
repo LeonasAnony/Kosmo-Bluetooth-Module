@@ -25,4 +25,4 @@ The Board has all the features (Transmitter and a Receiver) I need and it's quit
 
 ## Images
 
-<img src="Images/Drahtlose-Bluetooth-Audio-Transmitter-Empfänger.webp" style="zoom:50%;" />
+<img src="Images/Bluetooth-Audio-Transmitter-Empfänger.webp" style="zoom:50%;" />
